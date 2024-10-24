@@ -13,7 +13,7 @@ docsify serve docs
 ```
 
 ### commit 书写说明
-- 按照<type>: <subject>的格式书写commit,请养成及时提交更改的习惯
+- 按照type: subject的格式书写commit,请养成及时提交更改的习惯
 - 下面是可能用到的type
 ```
 feat: 新增
