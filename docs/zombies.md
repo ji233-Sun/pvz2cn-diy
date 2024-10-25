@@ -11,7 +11,6 @@
 | 气球僵尸 | modern_balloon |  |
 | 全明星僵尸 | modern_allstar |  |
 | 粉丝小鬼僵尸 | modern_superfanimp |  |
-| 报纸僵尸 | beghouled_newspaper |  |
 | 周日版僵尸 | newspaper_veteran |  |
 | 读报僵尸 | modern_newspaper |  |
 | 防爆警察僵尸 | explosion_proof |  |
@@ -31,11 +30,6 @@
 | 骆驼僵尸 | camel_onehump |  |
 | 骆驼僵尸 | camel_twohump |  |
 | 骆驼僵尸 | camel_manyhump |  |
-| 骆驼僵尸 | camel_segment |  |
-| nan | camel_onehump_touch |  |
-| nan | camel_twohump_touch |  |
-| nan | camel_manyhump_touch |  |
-| nan | camel_segment_touch |  |
 | 法老僵尸 | pharaoh |  |
 | 太阳神僵尸 | ra |  |
 | 死神僵尸 | tomb_raiser |  |
@@ -54,7 +48,6 @@
 | 海盗小鬼僵尸 | pirate_imp |  |
 | 海鸥僵尸 | seagull |  |
 | 海盗船长僵尸 | pirate_captain |  |
-| 僵尸鹦鹉 | pirate_captain_parrot |  |
 | 飞索僵尸 | swashbuckler |  |
 | 海盗僵尸桶   | pirate_barrel |  |
 
@@ -82,13 +75,11 @@
 | 功夫普通僵尸 | kongfu_basic |  |
 | 路障功夫僵尸 | kongfu_basic_armor1 |  |
 | 铁茶壶功夫僵尸 | kongfu_basic_armor2 |  |
-| nan | kongfu_basic_armor3 |  |
 | 锤子僵尸 | kongfu_hammer |  |
 | 功夫旗子僵尸 | kongfu_flag |  |
 | 功夫火把僵尸 | kongfu_torch |  |
 | 自爆僵尸 | kongfu_selfexplode |  |
 | 功夫铜锣僵尸 | kongfu_gong |  |
-| nan | kongfu_rocket |  |
 | 功夫气功僵尸 | kongfu_qigong |  |
 | 喝酒僵尸 | kongfu_drink |  |
 | 武僧路障僵尸 | kongfu_monk_cone |  |
@@ -122,33 +113,15 @@
 | 机甲橄榄球僵尸 | football_mech |  |
 | 迪斯科3000 | disco_mech |  |
 | 未来僵尸博士 | zombossmech_future |  |
-| nan | zombossmech_future_TimeTravel_easy |  |
-| nan | zombossmech_future_TimeTravel_normal |  |
-| nan | zombossmech_future_TimeTravel_hard |  |
 | 埃及僵尸博士 | zombossmech_egypt |  |
 | 西部僵尸博士 | zombossmech_cowboy |  |
 | 海盗僵尸博士 | zombossmech_pirate |  |
 | 黑暗机械龙 | zombossmech_dark |  |
-| nan | zombossmech_dark_TimeTravel_easy |  |
-| nan | zombossmech_dark_TimeTravel_normal |  |
-| nan | zombossmech_dark_TimeTravel_hard |  |
 | 沙滩僵尸博士 | zombossmech_beach |  |
-| nan | zombossmech_SummerEvent_easyBeach |  |
-| nan | zombossmech_SummerEvent_hardBeach |  |
-| nan | zombossmech_SummerEvent_legendBeach |  |
 | 獠牙征服者 | zombossmech_iceage |  |
 | 飞艇僵尸博士 | zombossmech_lostcity |  |
-| nan | zombossmech_lostcity_TimeTravel_easy |  |
-| nan | zombossmech_lostcity_TimeTravel_normal |  |
-| nan | zombossmech_lostcity_TimeTravel_hard |  |
 | 摇滚僵尸博士 | zombossmech_eighties |  |
-| nan | zombossmech_eighties_TimeTravel_easy |  |
-| nan | zombossmech_eighties_TimeTravel_normal |  |
-| nan | zombossmech_eighties_TimeTravel_hard |  |
 | 恐龙机械僵尸 | zombossmech_dino |  |
-| nan | zombossmech_dino_TimeTravel_easy |  |
-| nan | zombossmech_dino_TimeTravel_normal |  |
-| nan | zombossmech_dino_TimeTravel_hard |  |
 | nan | zombossmech_modern_egypt |  |
 | nan | zombossmech_modern_pirate |  |
 | nan | zombossmech_modern_cowboy |  |
@@ -174,27 +147,10 @@
 | 僧侣小鬼僵尸 | dark_imp |  |
 | 恶龙小鬼僵尸 | dark_imp_dragon |  |
 | 国王僵尸 | dark_king |  |
-| nan | zombie_target_bottle |  |
-| nan | zombie_target_arrow_yellow |  |
-| nan | zombie_target_arrow_blue |  |
 | 大法师僵尸 | dark_archmage |  |
 | 骑兵僵尸 | dark_cavalry |  |
 | nan | dark_cavalry_rider |  |
-| nan | zombie_towerdefend_normal |  |
-| nan | zombie_towerdefend_bucket |  |
-| nan | zombie_towerdefend_helmet |  |
-| nan | zombie_towerdefend_knight |   |
-| nan | zombie_towerdefend_jester |  |
-| nan | zombie_towerdefend_gargantuar |  |
-| nan | zombie_towerdefend_wizard |  |
-| nan | zombie_towerdefend_wolf_fire |  |
-| nan | zombie_towerdefend_wolf_imp |  |
-| nan | zombie_towerdefend_boss |  |
 | 盗贼僵尸 | dark_rogue |  |
-| nan | zombie_target_archmage |  |
-| nan | zombie_target_wizard |  |
-| nan | zombie_target_gargantuar |  |
-| nan | zombie_target_arrow_purple |  |
 
 ### 沙滩
 | 中文名 | 对应类型 | 备注 |
@@ -213,8 +169,6 @@
 | 渔夫僵尸 | beach_fisherman |  |
 | 章鱼僵尸 | beach_octopus |  |
 | 贝壳僵尸 | beach_shell |  |
-| nan | lion_dance |  |
-| nan | wealth_god |  |
 
 ### 冰河
 | 中文名 | 对应类型 | 备注 |
@@ -231,7 +185,6 @@
 | 冰鼬僵尸 | iceage_weaselhoarder |  |
 | 冰鼬 | iceage_weasel |  |
 | 穴居僵尸 | iceage_troglobite |  |
-| nan | zombossmech_iceage_eliminate |  |
 | 海象僵尸 | iceage_walrus |  |
 | 滑雪僵尸 | iceage_ski |  |
 | 冰风酋长僵尸 | iceage_chief |  |
@@ -242,7 +195,6 @@
 | 普通飞行员僵尸 | skycity |  |
 | 路障飞行员僵尸 | skycity_armor1 |  |
 | 铁桶飞行员僵尸 | skycity_armor2 |  |
-| nan | skycity_armor3 |  |
 | 旗帜飞行员僵尸 | skycity_flag |  |
 | 战斗机僵尸 | skycity_battleplane |  |
 | 飞行小鬼僵尸 | skycity_ggtimp |  |
@@ -253,17 +205,6 @@
 | 飞弹僵尸 | air_missile |  |
 | 飞弹僵尸 | air_missile_launcher |  |
 | 秃鹫战机 | zombossmech_skycity |  |
-| nan | zombossmech_skycity_TimeTravel_easy |  |
-| nan | zombossmech_skycity_TimeTravel_normal |  |
-| nan | zombossmech_skycity_TimeTravel_hard |  |
-| nan | pvpskill_bomb |  |
-| nan | pvpskill_aid |  |
-| nan | pvpskill_sleep |  |
-| nan | pvpskill_invisible |  |
-| nan | pvpskill_zombiefood |  |
-| nan | pvpskill_rage |  |
-| nan | zombie_pumpkin |  |
-| nan | zombie_pumpkin_imp |  |
 
 ### 失落
 | 中文名 | 对应类型 | 备注 |
@@ -450,7 +391,6 @@
 | nan | spring_gargantuar_af |  |
 | nan | spring_imp |  |
 | nan | spring_imp_af |  |
-| nan | gum |  |
 
 ### 平安
 | 中文名 | 对应类型 | 备注 |
