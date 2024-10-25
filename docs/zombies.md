@@ -374,23 +374,23 @@
 | 寒冰豌豆僵尸 | zombie_snowpea |  |
 | 机枪豌豆僵尸 | zombie_gatlingpea |  |
 
-### 春季
+### 春日
 | 中文名 | 对应类型 | 备注 |
 | ----------- | ----------- | ----------- |
-| nan | spring |  |
-| nan | spring_armor1 |  |
-| nan | spring_armor2 |  |
-| nan | spring_flag |  |
-| nan | spring_camel_onehump |  |
-| nan | spring_camel_twohump |  |
-| nan | spring_camel_manyhump |  |
-| nan | spring_camel_segment |  |
-| nan | spring_poncho |  |
-| nan | spring_wizard |  |
-| nan | spring_gargantuar |  |
-| nan | spring_gargantuar_af |  |
-| nan | spring_imp |  |
-| nan | spring_imp_af |  |
+| 春日僵尸 | spring |  |
+| 春日铁桶僵尸 | spring_armor1 |  |
+| 春日铁桶僵尸 | spring_armor2 |  |
+| 春日举旗僵尸 | spring_flag |  |
+| 春日骆驼僵尸 | spring_camel_onehump | 3人 |
+| 春日骆驼僵尸 | spring_camel_twohump | 4人 |
+| 春日骆驼僵尸 | spring_camel_manyhump | 6人 |
+| 春日骆驼僵尸 | spring_camel_segment | 2人 |
+| 春日斗篷僵尸 | spring_poncho |  |
+| 春日法师 | spring_wizard |  |
+| 春日巨人 | spring_gargantuar |  |
+| 愚人节巨人 | spring_gargantuar_af |  |
+| 春日小鬼 | spring_imp |  |
+| 愚人节小鬼 | spring_imp_af |  |
 
 ### 平安
 | 中文名 | 对应类型 | 备注 |
